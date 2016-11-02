@@ -16,7 +16,7 @@ var uppress = false;
 var rightpress = false;
 var downpress = false;
 
-var power = 50;
+var power = 80;
 
 function install_keys() {
 
